@@ -1,7 +1,9 @@
 # CalgaryUrbanForest-Martin
 
 Creator: Lindsay Martin, University of Calgary, lindsay.martin1@ucalgary.ca
-Data collected: October 2024
+
+Data collected: October 2024.
+
 This data pertains to the communities found throughout the city of Calgary, AB. 
 
 This project sought to quantify tree biodiversity and average diameter at breast height (DBH) in the urban forest across the city of Calgary.  This gives insight into the health and resilience of the urban forest as well as the ecosystem services provided by it.  Biodiversity is an important metric to look at as it illustrates how resilient the ecosystem is.  Having more biodiversity increases the ability for an ecosystem to resist and recover from disturbances or changes in environmental conditions or pests and diseases.  The Shannon Wiener biodiveristy index utilizes the number of species in a region and the evenness of the community to provide a value quantifying it.  The value typically ranges from 1.5 to 3.5 and typically does not exceed 4.  Having more species diversity in an area will raise the value.  More even communities will also increase the value as it indicates more equal distribution of the number of individuals across the species rather than having ecosystems primarily dominated by a few species.  
