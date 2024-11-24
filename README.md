@@ -14,8 +14,8 @@ Data Source:**
 **The City of Calgary. (2024). Public Trees. https://data.calgary.ca/Environment/Public-Trees/tfs4-3wwa/about_data 
 
 **Files included:**
-
-**ShannonIndex.R **
+**
+ShannonIndex.R**
 - This includes the code used to calculate the Shannon Wiener biodiversity index
 - To use insert number of each species in list form in the brackets of this line of code -> species_counts <- c()
 
