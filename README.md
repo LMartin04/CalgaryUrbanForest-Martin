@@ -20,4 +20,7 @@ ShannonIndex.R
 - To use insert number of each species in list form in the brackets of this line of code -> species_counts <- c()
 
 ShannonIndex&DBH_Calgary.csv
-- Variables included: Community_Code indicates the communitiy codes throughout the city, Shannon_Index indicates the calculated biodiversity index value (this value has no units), Avg_DBH indicates the calculated average diameter at breast height in centimeters (cm) for the trees in each community
+- Variables included:
+-   Community_Code indicates the communitiy codes throughout the city
+-   Shannon_Index indicates the calculated biodiversity index value (this value has no units)
+-   Avg_DBH indicates the calculated average diameter at breast height in centimeters (cm) for the trees in each community
