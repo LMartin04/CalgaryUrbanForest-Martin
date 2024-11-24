@@ -21,6 +21,6 @@ Data Source:**
 
 **ShannonIndex&DBH_Calgary.csv**
 Variables included:
--   Community_Code indicates the communitiy codes throughout the city
--   Shannon_Index indicates the calculated biodiversity index value (this value has no units)
--   Avg_DBH indicates the calculated average diameter at breast height in centimeters (cm) for the trees in each community
+-   Community_Code - indicates the communitiy codes throughout the city
+-   Shannon_Index - indicates the calculated biodiversity index value (this value has no units)
+-   Avg_DBH - indicates the calculated average diameter at breast height in centimeters (cm) for the trees in each community
