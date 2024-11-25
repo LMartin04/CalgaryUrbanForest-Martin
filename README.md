@@ -14,6 +14,7 @@ The original data used was the Public Trees dataset taken from the City of Calga
 The City of Calgary. (2024). Public Trees. https://data.calgary.ca/Environment/Public-Trees/tfs4-3wwa/about_data 
 
 
+
 **Files included:**
 
 **ShannonIndex.R**
@@ -25,6 +26,7 @@ Variables included:
 -   Community_Code - indicates the communitiy codes throughout the city
 -   Shannon_Index - indicates the calculated biodiversity index value (this value has no units)
 -   Avg_DBH - indicates the calculated average diameter at breast height in centimeters (cm) for the trees in each community
+
 
 
 **References** 
